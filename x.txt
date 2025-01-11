@@ -1,0 +1,3 @@
+payload:
+  - '+.javdb.com'
+  - '+.telerik.com'
