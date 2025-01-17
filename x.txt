@@ -1,3 +1,4 @@
 payload:
   - '+.javdb.com'
   - '+.telerik.com'
+  - '+.bitwarden.com'
