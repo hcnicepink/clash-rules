@@ -1,5 +1,4 @@
-payload:
-  - '*seesaawiki*'
-  - '*mgstage*'
-  - '*prestige-av*'
-  - '*dmm*'
+DOMAIN-KEYWORD, seesaawiki
+DOMAIN-KEYWORD, mgstage
+DOMAIN-KEYWORD, prestige-av
+DOMAIN-KEYWORD, dmm
