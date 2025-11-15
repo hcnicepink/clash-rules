@@ -1,5 +1,5 @@
 payload:
-  - '+.seesaawiki.+'
-  - '+.mgstage.+'
-  - '+.prestige-av.+'
-  - '+.dmm.+'
+  - '*seesaawiki*'
+  - '*mgstage*'
+  - '*prestige-av*'
+  - '*dmm*'
