@@ -1,2 +1,2 @@
 payload:
-  - '+.m-team.cc'
+  - '+.m-team.+'
