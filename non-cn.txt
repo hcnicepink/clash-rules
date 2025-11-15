@@ -1,22 +1,21 @@
-payload:
-  - '*telerik*'
-  - '*bitwarden*'
-  - '*xn--mes358aby2apfg*'
-  - '*赔钱机场*'
-  - '*sukebei.nyaa*'
-  - '*javbus*'
-  - '*jav321*'
-  - '*javlibrary*'
-  - '*mywife*'
-  - '*giga-web*'
-  - '*freejavbt*'
-  - '*mdtv*'
-  - '*madouqu*'
-  - '*7mmtv*'
-  - '*faleno*'
-  - '*dahlia.ne*'
-  - '*prestige-av*'
-  - '*theporndb*'
-  - '*cnmdb*'
-  - '*fantastica-vr*'
-  - '*kin8*'
+DOMAIN-KEYWORD, telerik
+DOMAIN-KEYWORD, bitwarden
+DOMAIN-KEYWORD, xn--mes358aby2apfg
+DOMAIN-KEYWORD, 赔钱机场
+DOMAIN-KEYWORD, sukebei.nyaa
+DOMAIN-KEYWORD, javbus
+DOMAIN-KEYWORD, jav321
+DOMAIN-KEYWORD, javlibrary
+DOMAIN-KEYWORD, mywife
+DOMAIN-KEYWORD, giga-web
+DOMAIN-KEYWORD, freejavbt
+DOMAIN-KEYWORD, mdtv
+DOMAIN-KEYWORD, madouqu
+DOMAIN-KEYWORD, 7mmtv
+DOMAIN-KEYWORD, faleno
+DOMAIN-KEYWORD, dahlia.ne
+DOMAIN-KEYWORD, prestige-av
+DOMAIN-KEYWORD, theporndb
+DOMAIN-KEYWORD, cnmdb
+DOMAIN-KEYWORD, fantastica-vr
+DOMAIN-KEYWORD, kin8
