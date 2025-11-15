@@ -2,3 +2,4 @@ payload:
   - '+.seesaawiki.+'
   - '+.mgstage.+'
   - '+.prestige-av.+'
+  - '+.dmm.+'
