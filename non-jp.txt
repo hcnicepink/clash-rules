@@ -1,4 +1,3 @@
-payload:
-  - '*javdb*'
-  - '*airav*'
-  - '*avsex*'
+DOMAIN-KEYWORD, javdb
+DOMAIN-KEYWORD, airav
+DOMAIN-KEYWORD, avsex
