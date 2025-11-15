@@ -1,2 +1,10 @@
 payload:
   - '+.m-team.+'
+  - '+.hdouban.+'
+  - '+.iqqtv.+'
+  - '+.airav.+'
+  - '+.love6.+'
+  - '+.lulubar.+'
+  - '+.fc2.+'
+  - '+.fc2club.+'
+  - '+.fc2hub.+'
