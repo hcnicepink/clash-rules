@@ -1,4 +1,4 @@
 payload:
-  - '+.javdb.+'
-  - '+.airav.+'
-  - '+.avsex.+'
+  - '*javdb*'
+  - '*airav*'
+  - '*avsex*'
