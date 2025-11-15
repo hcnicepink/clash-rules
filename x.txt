@@ -1,7 +1,0 @@
-payload:
-  - '+.javdb.com'
-  - '+.telerik.com'
-  - '+.bitwarden.com'
-  - '+.xn--mes358aby2apfg.com'
-  - '+.赔钱机场.com'
-  - '+.sukebei.nyaa.si'
