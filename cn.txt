@@ -1,10 +1,9 @@
-payload:
-  - '*m-team*'
-  - '*hdouban*'
-  - '*iqqtv*'
-  - '*airav*'
-  - '*love6*'
-  - '*lulubar*'
-  - '*fc2*'
-  - '*fc2club*'
-  - '*fc2hub*'
+DOMAIN-KEYWORD, m-team
+DOMAIN-KEYWORD, hdouban
+DOMAIN-KEYWORD, iqqtv
+DOMAIN-KEYWORD, airav
+DOMAIN-KEYWORD, love6
+DOMAIN-KEYWORD, lulubar
+DOMAIN-KEYWORD, fc2
+DOMAIN-KEYWORD, fc2club
+DOMAIN-KEYWORD, fc2hub
